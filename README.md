@@ -1,0 +1,1 @@
+This is a basic implementation of Github actions, one of the ways of going about CI/CD.
